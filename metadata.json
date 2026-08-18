@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Ecosystem",
+  "description": "Comprehensive unified platform for Health, Fitness, Courses, Live Classes, AI Assistant, Community, Business Hub, Jobs, Rewards, Support and Role-based Administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
